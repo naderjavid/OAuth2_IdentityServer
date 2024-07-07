@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuth2_IdentityServer", "OAuth2_IdentityServer\OAuth2_IdentityServer.csproj", "{7968B31F-D7D7-46B8-ADB0-842699AC64B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7968B31F-D7D7-46B8-ADB0-842699AC64B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7968B31F-D7D7-46B8-ADB0-842699AC64B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7968B31F-D7D7-46B8-ADB0-842699AC64B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7968B31F-D7D7-46B8-ADB0-842699AC64B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30A7B0A8-9946-431E-BCB0-195C08F06943}
+	EndGlobalSection
+EndGlobal
